@@ -2,9 +2,9 @@
 ### My name is Ashkan Moradi and I'm a Data Analyst from Tehran, Iran.
 - 🔭 I’m currently working in **Khoshgovar (Coca-Cola Iran) company**.
 - 🌱 I’m currently learning **Data Science**.
-- 👯 I’m looking to collaborate on new project.
+- 👯 I’m looking to collaborate on **New project**.
 - 💬 Ask me about **SQL**, **Python**, **Power BI** and **Data Science**.
-- 📫 Reach me @ [**Linkedin**](www.linkedin.com/in/ashkan-moradi)
+- 📫 Reach me at [**Linkedin**](www.linkedin.com/in/ashkan-moradi)
 - 💪🏻 Continuous_Learner 
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

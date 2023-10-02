@@ -1,5 +1,6 @@
 ### Hi, My name is Ashkan Moradi 👋
-
+##  I'm a Data Analyst 😎
+##  and Data Science Enthusiast 🤩
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

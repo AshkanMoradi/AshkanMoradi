@@ -1,6 +1,5 @@
 ##  Hi 👋
-### My name is Ashkan Moradi. 
-### I'm a Data Analyst from Tehran, Iran.
+### My name is Ashkan Moradi and I'm a Data Analyst from Tehran, Iran.
 - 🔭 I’m currently working in **Khoshgovar (Coca-Cola Iran) company**.
 - 🌱 I’m currently learning **Data Science**.
 - 👯 I’m looking to collaborate on new project.

@@ -1,6 +1,6 @@
 # Hi 👋 My name is Ashkan Moradi 
-##  I'm a Data Analyst from Iran
-
+##  I'm a Data Analyst from Tehran,Iran
+##  I'm passionate about Data Science
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

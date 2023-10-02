@@ -1,5 +1,4 @@
-# Hi 👋
-# My name is Ashkan Moradi
+# Hi 👋 My name is Ashkan Moradi 
 ##  I'm a Data Analyst 😎 and Data Science Enthusiast 🤩
 
 <!--

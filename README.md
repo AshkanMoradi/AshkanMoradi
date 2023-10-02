@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on new project.
 - 💬 Ask me about SQL, Python, Power BI and Data Science.
-- 📫 How to reach me: www.linkedin.com/in/ashkan-moradi/
-- 💪 #ContinuesLearning
+- 📫 How to reach me: www.linkedin.com/in/ashkan-moradi
+- 💪 ContinuesLearner
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

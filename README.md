@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **New project**.
 - 💬 Ask me about **SQL**, **Python**, **Power BI** and **Data Science**.
 - 📫 Reach me at [**Linkedin**](www.linkedin.com/in/ashkan-moradi)
-- 💪🏻 Continuous_Learner 
+- 💪🏻 **Continuous Learner** 
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

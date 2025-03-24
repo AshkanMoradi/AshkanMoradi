@@ -1,9 +1,7 @@
 ##  Hi 👋
 ### My name is Ashkan Moradi and I'm a Data Analyst from Toronto ON, Canada.
 - 🔭 I have worked as a Data Analyst and BI Developer for more than five years.
-- 🌱 I’m currently learning **Data Science**.
-- 👯 I’m looking to collaborate on **New project**.
-- 💬 Ask me about **SQL**, **Python**, **Power BI** and **Data Science**.
+- 💬 My interests are **data Analysis, machine learning and Data Science**.
 - 📫 Reach me at [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 - 💪🏻 **Continuous Learner** 
 <!--

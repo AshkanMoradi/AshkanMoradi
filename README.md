@@ -2,8 +2,7 @@
 ### My name is Ashkan Moradi and I'm a Data Analyst from Toronto ON, Canada.
 - 🔭 I have worked as a Data Analyst and BI Developer for more than five years.
 - 💬 My interests are **data Analysis, machine learning and Data Science**.
-- 📫 Reach me at [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
-- 💪🏻 **Continuous Learner** 
+- 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

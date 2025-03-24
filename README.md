@@ -4,8 +4,11 @@
 - 💬 My interests are **data Analysis, machine learning and Data Science**.
 - 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 
- Skills:
-![image](https://github.com/user-attachments/assets/e7f99a36-db82-4687-9ec2-9de6911c0092) ![image](https://github.com/user-attachments/assets/3f52f02e-4d58-41d6-bc95-86ee824a1781)
+### Skills:
+![image](https://github.com/user-attachments/assets/e7f99a36-db82-4687-9ec2-9de6911c0092) 
+![image](https://github.com/user-attachments/assets/3f52f02e-4d58-41d6-bc95-86ee824a1781)
+![image](https://github.com/user-attachments/assets/314adbe0-715d-4c0e-803a-50663c084ecc)
+
 
 
 <!--

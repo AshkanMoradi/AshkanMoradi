@@ -3,6 +3,10 @@
 - 🔭 I have worked as a Data Analyst and BI Developer for more than five years.
 - 💬 My interests are **data Analysis, machine learning and Data Science**.
 - 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
+
+- Skills:
+- ![image](https://github.com/user-attachments/assets/e7f99a36-db82-4687-9ec2-9de6911c0092)
+
 <!--
 **AshkanMoradi/AshkanMoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

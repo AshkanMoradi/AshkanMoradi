@@ -14,7 +14,7 @@
 
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,azure,figma,git,linux,mint,matlab,postgres,pycharm,pytorch,sqlite,sklearn,tensorflow,vscode,xd&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,azure,figma,git,linux,mint,matlab,postgres,pycharm,pytorch,sqlite,sklearn,tensorflow,vscode,xd&perline=7)](https://skillicons.dev)
 
 
 ### Skills:

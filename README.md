@@ -8,7 +8,7 @@
   <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AshkanMoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,azure,figma,git,linux,mint,matlab,postgres,pycharm,pytorch,sqlite,sklearn,tensorflow,vscode,xd)](https://skillicons.dev)
 
 
 ### Skills:

@@ -1,8 +1,18 @@
-##  Hi 👋
-### My name is Ashkan Moradi and I'm a Data Analyst from Toronto ON, Canada.
+### Ashkan Moradi (Data Analyst and Business Intelligence Developer), Toronto, ON, Canada
+
+Results-driven Data Analyst with several years of experience in business intelligence, data analytics, and ERP systems.
+Proven ability to design interactive dashboards, automate reporting, and deliver actionable insights using tools like Power
+BI, SQL, and Python. Strong background in developing ETL pipelines, OLAP models, and implementing ERP systems to
+optimize operations and decision-making. Recognized for streamlining reporting processes, enhancing data visibility, and
+contributing to ERP adoption and process improvement. A self-motivated, detail-oriented professional with a growth
+mindset and excellent communication skills.
+
+<!--
 - 🔭 I have worked as a Data Analyst and BI Developer for more than five years.
 - 💬 My interests are **data Analysis, machine learning and Data Science**.
 - 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
+
+-->
 
 <a href="https://github.com/ashkanmoradi#gh-light-mode-only">
   <img align="right" width="400px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&include_all_commits=true&disable_animations=false#gh-light-mode-only">

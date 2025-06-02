@@ -28,7 +28,7 @@ mindset and excellent communication skills.
 ![image](https://github.com/user-attachments/assets/bf46ceb5-bcad-4c95-be2d-841019d1f749)
 
 ### Other Skills:
-[![My Skills](https://skillicons.dev/icons?i=mysql,azure,figma,git,linux,mint,matlab,postgres,pycharm,pytorch,sqlite,sklearn,tensorflow,vscode,xd&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,git,linux,mysql,postgres,sqlite,pycharm,vscode,sklearn,tensorflow,pytorch,matlab,xd,figma&perline=7)](https://skillicons.dev)
 
 
 

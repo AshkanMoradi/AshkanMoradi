@@ -4,6 +4,11 @@
 - 💬 My interests are **data Analysis, machine learning and Data Science**.
 - 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 
+<a href="https://github.com/AshkanMoradi#gh-dark-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AshkanMoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+</a>
+
+
 ### Skills:
 ![image](https://github.com/user-attachments/assets/a7aedd16-779c-49ea-80c4-d57e17d59a83)
 ![image](https://github.com/user-attachments/assets/2483b2a6-08d9-469d-84bf-c843c60ba29a)

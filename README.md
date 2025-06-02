@@ -4,11 +4,17 @@
 - 💬 My interests are **data Analysis, machine learning and Data Science**.
 - 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 
-<a href="https://github.com/AshkanMoradi#gh-dark-mode-only">
-  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AshkanMoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+<a href="https://github.com/ashkanmoradi#gh-light-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&include_all_commits=true&disable_animations=false#gh-light-mode-only">
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,azure,figma,git,linux,mint,matlab,postgres,pycharm,pytorch,sqlite,sklearn,tensorflow,vscode,xd)](https://skillicons.dev)
+<a href="https://github.com/ashkanmoradi#gh-dark-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+</a>
+
+
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,azure,figma,git,linux,mint,matlab,postgres,pycharm,pytorch,sqlite,sklearn,tensorflow,vscode,xd&perline=7)](https://skillicons.dev)
 
 
 ### Skills:

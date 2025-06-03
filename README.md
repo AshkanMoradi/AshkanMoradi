@@ -1,5 +1,5 @@
 # Ashkan Moradi 
-### Data Analyst | Business Intelligence Developer | Toronto, ON
+### Data Analyst | Business Intelligence Developer | Toronto, ON 🍁
 
 Results-driven Data Analyst with several years of experience in business intelligence, data analytics, and ERP systems.
 Proven ability to design interactive dashboards, automate reporting, and deliver actionable insights using tools like Power

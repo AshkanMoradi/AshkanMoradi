@@ -26,10 +26,20 @@ mindset and excellent communication skills.
 </a>
 
 
+
+
 ### Top Skills:
+<!--
+<img src="https://github.com/user-attachments/assets/2483b2a6-08d9-469d-84bf-c843c60ba29a" min-width="60px" max-width="60px" width="60px" align="left" alt="Computador">
+<img src="https://github.com/user-attachments/assets/a7aedd16-779c-49ea-80c4-d57e17d59a83" min-width="60px" max-width="60px" width="60px" align="left" alt="Computador">
+<img src="https://github.com/user-attachments/assets/bf46ceb5-bcad-4c95-be2d-841019d1f749" min-width="60px" max-width="60px" width="60px" align="left" alt="Computador">
+-->
+
+
 ![image](https://github.com/user-attachments/assets/2483b2a6-08d9-469d-84bf-c843c60ba29a)
 ![image](https://github.com/user-attachments/assets/a7aedd16-779c-49ea-80c4-d57e17d59a83)
 ![image](https://github.com/user-attachments/assets/bf46ceb5-bcad-4c95-be2d-841019d1f749)
+
 
 ### Other Skills:
 [![My Skills](https://skillicons.dev/icons?i=azure,git,linux,mysql,postgres,sqlite,pycharm,vscode,sklearn,tensorflow,pytorch,matlab,xd,figma&perline=7)](https://skillicons.dev)

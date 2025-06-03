@@ -32,13 +32,6 @@ mindset and excellent communication skills.
 [![My Skills](https://skillicons.dev/icons?i=azure,git,linux,mysql,postgres,sqlite,pycharm,vscode,sklearn,tensorflow,pytorch,matlab,xd,figma&perline=7)](https://skillicons.dev)
 
 
-
-
-
-
-
-
-
 <!--
 ![image](https://github.com/user-attachments/assets/e7f99a36-db82-4687-9ec2-9de6911c0092) 
 ![image](https://github.com/user-attachments/assets/3f52f02e-4d58-41d6-bc95-86ee824a1781)

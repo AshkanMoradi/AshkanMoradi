@@ -16,12 +16,15 @@ mindset and excellent communication skills.
 -->
 
 <a href="https://github.com/ashkanmoradi#gh-light-mode-only">
-  <img align="right" width="400px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&include_all_commits=true&disable_animations=false#gh-light-mode-only">
+  <img align="right" width="355px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&include_all_commits=true&disable_animations=false#gh-light-mode-only">
+  <img align="right" width="265px" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanmoradi&show_icons=true&layout=compact&disable_animations=false#gh-light-mode-only">
 </a>
 
 <a href="https://github.com/ashkanmoradi#gh-dark-mode-only">
-  <img align="right" width="400px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+  <img align="right" width="355px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+  <img align="right" width="265px" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanmoradi&show_icons=true&layout=compact&theme=dracula#gh-dark-mode-only"">
 </a>
+
 
 ### Top Skills:
 ![image](https://github.com/user-attachments/assets/2483b2a6-08d9-469d-84bf-c843c60ba29a)
@@ -30,6 +33,7 @@ mindset and excellent communication skills.
 
 ### Other Skills:
 [![My Skills](https://skillicons.dev/icons?i=azure,git,linux,mysql,postgres,sqlite,pycharm,vscode,sklearn,tensorflow,pytorch,matlab,xd,figma&perline=7)](https://skillicons.dev)
+
 
 
 <!--

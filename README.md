@@ -21,7 +21,7 @@ mindset and excellent communication skills.
 </a>
 
 <a href="https://github.com/ashkanmoradi#gh-dark-mode-only">
-  <img align="right" width="355px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&hide_border=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
+  <img align="right" width="355px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&disable_animations=false&theme=dracula#gh-dark-mode-only">
   <img align="right" width="265px" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanmoradi&show_icons=true&layout=compact&theme=dracula#gh-dark-mode-only"">
 </a>
 

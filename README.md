@@ -13,7 +13,7 @@ mindset and excellent communication skills.
 - 💬 My interests are **data Analysis, machine learning, and Data Science**.
 - 📫 Reach me at my [**Linkedin**](https://www.linkedin.com/in/ashkan-moradi-33936278/)
 
--->
+
 
 <a href="https://github.com/ashkanmoradi#gh-light-mode-only">
   <img align="right" width="320px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=ashkanmoradi&show_icons=true&include_all_commits=true&disable_animations=false#gh-light-mode-only">
@@ -25,7 +25,7 @@ mindset and excellent communication skills.
   <img align="right" width="245px" alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkanmoradi&show_icons=true&layout=compact&theme=dracula#gh-dark-mode-only"">
 </a>
 
-
+-->
 
 
 ### Top Skills:
